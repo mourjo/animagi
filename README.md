@@ -11,7 +11,7 @@ the rare ability to _transform_ into a particular animal at will. Here's
 an attempt to _transform_ some costly HTTP calls and elaborate test
 setup to faster in-memory implementations.
 
-For the wizards out there, this has indeed been authroized by the
+For the wizards out there, this has indeed been authorized by the
 Ministry of Magic.
 
 ## Installation
